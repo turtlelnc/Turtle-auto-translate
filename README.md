@@ -11,6 +11,6 @@ English Introduction（英文简介）：Browser automatic translation suitable 
 ## 主要的 readme 语言选择（Main readme language options）
 
 
-[简体中文（Chinese）](https://github.com/turtlelnc/Turtle-auto-translate/docs/Chinese/README.md)
+[简体中文（Chinese）]([https://github.com/turtlelnc/Turtle-auto-translate/docs/Chinese/README.md](https://github.com/turtlelnc/Turtle-auto-translate/blob/main/docs/Chinese/README.md))
 
 [英语（English）](https://github.com/turtlelnc/Turtle-auto-translate/docs/English/README.md)
