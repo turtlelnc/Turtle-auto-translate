@@ -1,24 +1,63 @@
-# Compiled class file
-*.class
+```
+# Dependencies
+node_modules/
 
-# Log file
+# Build artifacts
+dist/
+build/
+*.js.map
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# Logs
 *.log
 
-# BlueJ files
-*.ctxt
+# Coverage
+coverage/
+htmlcov/
+.coverage
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg-info/
+.eggs/
 
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
+# Compressed files
 *.zip
-*.tar.gz
+*.gz
+*.tar
+*.tgz
+*.bz2
+*.xz
+*.7z
 *.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-replay_pid*
+*.zst
+*.lz4
+*.lzh
+*.cab
+*.arj
+*.rpm
+*.deb
+*.Z
+*.lz
+*.lzo
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.zst
+```
